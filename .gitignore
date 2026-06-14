@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Audio Files
+recordings/*.wav
+recordings/*.aac
+
+# Large Models
+models/
+
+# OS Files
+.DS_Store
